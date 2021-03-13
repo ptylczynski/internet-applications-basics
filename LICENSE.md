@@ -1,0 +1,1 @@
+ll tasks and curicula made by Ph.D [Maciej Piernik](http://www.cs.put.poznan.pl/mpiernik/)
