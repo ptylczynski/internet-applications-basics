@@ -1,0 +1,17 @@
+@media all and (max-width: 900px) {
+    main {
+        flex-wrap: wrap;
+    }
+    
+    h1{
+        display: none;
+    }
+    
+    .vanishable{
+        display: none;
+    }
+    
+    .hamburger{
+        display: flex
+    }
+}
